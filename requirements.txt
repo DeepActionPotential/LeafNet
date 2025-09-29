@@ -1,0 +1,4 @@
+gradio==4.25.0
+torch==2.2.2
+pillow==10.3.0
+# Add any other dependencies found in your ui.py or model code
