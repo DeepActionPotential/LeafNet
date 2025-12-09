@@ -1,6 +1,7 @@
 import gradio as gr
 from utils import predict_image
 
+
 def build_ui():
     with gr.Blocks() as demo:
         gr.Markdown("# 🍃 Tea Leaf Disease Classifier")
